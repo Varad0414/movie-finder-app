@@ -1,5 +1,5 @@
 Movie Finder Application  
-This application can be used to find information about a certain movie using Online Movie Database API(OMDB API).  
+This application can be used to find information about a certain movie using Online Movie Database API (OMDB API).  
 
 API Used : OMDB API  
 The OMDb API is a RESTful web service to obtain movie information.  
