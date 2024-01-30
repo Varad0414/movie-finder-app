@@ -1,3 +1,8 @@
+
+/**
+ * Author: Pranav Sangave
+ * Date: 30-01-2024
+ */
 package com.example.moviefinder;
 
 import androidx.appcompat.app.AppCompatActivity;
